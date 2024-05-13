@@ -1,0 +1,47 @@
+// data type number
+// let number = 10;
+// let number2 = 20;
+// let number3 = 30;
+
+// how to write a fonction
+// function addnumbers(a, b) {
+
+    // console.log(a - b);
+// }
+
+// addnumbers(number,number2);
+
+// STRING DATATYPE
+// let name = "DRAP";
+
+// console.log(names);
+
+
+// Bolean Datatypes
+let isvalide = false ;
+
+console.log(isvalide);
+
+
+// Undefined datatypes
+let SpreadteckAfrica = "We are geeting there";
+
+console.log(SpreadteckAfrica)
+
+// Nule Datatypes
+let DRAP = null;
+
+console.log(DRAP)
+
+// Javascript object
+
+let person1 = { 
+    name: "bless",
+    age:16 ,
+    occupation: "student"
+};
+
+let array = [2,3,5,8]
+
+console.log(person1);
+console.log(array);
